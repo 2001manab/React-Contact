@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Contact/static/css/main.1824b995.css",
+    "main.js": "/React-Contact/static/js/main.658b60fa.js",
+    "static/media/user.png": "/React-Contact/static/media/user.5b31e8c312795837974b.png",
+    "index.html": "/React-Contact/index.html",
+    "main.1824b995.css.map": "/React-Contact/static/css/main.1824b995.css.map",
+    "main.658b60fa.js.map": "/React-Contact/static/js/main.658b60fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1824b995.css",
+    "static/js/main.658b60fa.js"
+  ]
+}
